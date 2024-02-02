@@ -6,7 +6,8 @@ The purpose of this analysis is to walk through the results from two different p
 
 <h2>Analysis</h2>
 From the lending data given, I was able to separate the data into features (characteristics used to create predictions) and labels (the outcomes). From there, we trained and tested the machine with the current dataset in order to create a linear regression model. The linear regression model shows us essentially a trendline that the data should follow according to characteristics given in a loan application. With this model and the original dataset, the results were the following:
-
+<br>
+<br>
 Healthy loans: 
 - Precision Score: 1.00
 - Recall Score: 1.00
